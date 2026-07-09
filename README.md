@@ -72,7 +72,7 @@ End users interact only with the **self-service portal**. Everything else — th
 
 An **incident** is an unplanned interruption to a service. The objective is to restore service quickly — the single most common task in every IT support role.
 
-![Incident Lifecycle](docs/images/incident-lifecycle.png)
+![image alt](https://github.com/mccraym7/ad-labset-004/blob/0a75184254bf0637105e12a2e5fc520f9ab8918b/incident-lifecycle.png)
 
 **Scenario used:** a user cannot access Outlook (`Cannot connect to the Exchange server`), one user affected, workaround available (webmail) → **Priority 3 — Moderate**, assigned to the **Service Desk** queue.
 
