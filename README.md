@@ -99,7 +99,7 @@ Built a **New Laptop Request** item (category: Hardware, fulfillment group: IT H
 
 A **change** is a planned modification to infrastructure. Change requests require manager/CAB approval before work begins — a core ITIL control that prevents uncoordinated modifications from causing outages.
 
-![Approval Workflow](docs/images/approval-workflow.png)
+![image alt](https://github.com/mccraym7/ad-labset-004/blob/30f48840c4ee97a9b6db22ff950a34afa8ad6f36/approval-workflow.png)
 
 **Change used:** deploy security patch **MS24-001** to all Windows workstations (addresses CVE-2024-0001, CVSS 7.8) — Risk: Low, Impact: Medium, with a defined maintenance window, **test plan**, and **backout plan**. Moved through `New (Standard) → Pending Approval → Scheduled`.
 
