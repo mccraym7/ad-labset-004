@@ -28,7 +28,7 @@ From a security standpoint, ITSM is where **change control**, **access request a
 
 End users interact only with the **self-service portal**. Everything else — the four ITSM process pillars, the workflow engine, the CMDB, and reporting — lives inside the ServiceNow platform and is configured by the IT admin.
 
-![ServiceNow ITSM Platform Architecture](docs/images/architecture.png)
+![image alt](https://github.com/mccraym7/ad-labset-004/blob/8fb07a64888ca700093666688dede618788d99a7/architecture_2.png)
 
 **How to read it:** a request enters from the left (End User → Submit), lands in one of the four process pillars based on its type, and the Workflow & Automation Engine handles routing, approvals, SLA timers, and notifications. The CMDB is the single source of truth for assets; the reporting layer surfaces SLA and volume metrics.
 
