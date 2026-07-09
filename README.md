@@ -17,7 +17,7 @@ When users report IT problems, those problems need to be tracked, routed, priori
 This lab uses **ServiceNow** — one of the most widely deployed enterprise ITSM platforms in the world — to solve that problem the way real IT organizations do. It enforces process: incidents follow an incident workflow, changes require approval, and service requests come from a catalog with predefined fulfillment steps. Every action is timestamped and attributed.
 
 The full step-by-step build guide (with field-value tables and copy-paste notes) lives in 
-![image alt](https://github.com/mccraym7/ad-labset-004/blob/adc3e14d891b067c1fabd79a0a8e5194c69f36e0/servicenow-itsm-lab.zip).
+https://github.com/mccraym7/ad-labset-004/blob/adc3e14d891b067c1fabd79a0a8e5194c69f36e0/servicenow-itsm-lab.zip).
 
 ### Why this matters for a security career
 
