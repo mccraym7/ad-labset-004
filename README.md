@@ -138,17 +138,6 @@ These terms appear in every IT support interview and are tested in ITIL 4 Founda
 
 ---
 
-## Reproduce This Lab
-
-1. Go to **[developer.servicenow.com](https://developer.servicenow.com)** and create a free account (email + password, no credit card).
-2. Click **Request Instance** → select the latest stable release → **Request**. Provisioning takes 10–15 minutes.
-3. Check your email for the instance URL (`devXXXXX.service-now.com`) and admin credentials.
-4. Follow the full build guide in [`docs/ServiceNow_ITSM_Lab_Documentation.docx`](docs/ServiceNow_ITSM_Lab_Documentation.docx).
-
-> ⚠️ **Keep your instance alive.** ServiceNow hibernates a PDI after **10 days** of inactivity and reclaims one after **30 days**. Log in at least once a week, and export/screenshot your deliverables as you go.
-
----
-
 ## Repository Structure
 
 ```
